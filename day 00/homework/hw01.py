@@ -1,8 +1,8 @@
 from turtle import *
 
-#we want to paint a hause  
 
-#step one draw a aquare  
+
+
 speed(30) 
 width(8) 
 color("orange") 
