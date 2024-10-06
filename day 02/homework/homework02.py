@@ -1,1 +1,1 @@
-print("გავიარე რეგისტრაცია sololearn")
+# შევქმენი ექაუნთი sololearn 
