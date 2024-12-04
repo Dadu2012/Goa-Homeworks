@@ -1,0 +1,10 @@
+x=10
+print(x<11 or x>12)
+print(x<1122 or x<0)
+print(x<10.1 or x>10.00000000000000001)
+print(x<134689 or x>3+9)
+print(x<1098 or x>12/1.1)
+print(x>12 or x<19)
+print(x<13 or x>110)
+print(x<16 or x>18)
+print(x<15 or x>13)
