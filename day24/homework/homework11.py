@@ -5,9 +5,9 @@ def draw_square(x,y):
     pendown()
 
     for i in range(4):
+      left(90)
       forward(200)
-    left(90)
-
+    
 
 draw_square(100,100)
 draw_square(-300,100)
