@@ -1,5 +1,5 @@
-def num (num1,num2):
+def p (num1,num2):
    print(num1+num2)
 
-num=(34,4)
-num=(56,9)
+p=(34,4)
+p=(56,9)
