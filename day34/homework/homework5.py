@@ -1,0 +1,1 @@
+print(input('enter ypur name'.lower()))

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML დოკუმენტი</title>
+    <style>
+        /* მშობელი დივ ბლოკი */
+        .outer-div {
+            width: 1000px;
+            height: 1000px;
+            background-color: #008000; /* მწვანე */
+            position: relative;
+        }
+
+        /* შვილი დივ ბლოკი */
+        .inner-div {
+            width: 20%;
+            height: 15%;
+            background-color: #000000; /* შავი */
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <!-- მშობელი დივ ბლოკი -->
+    <div class="outer-div">
+        <!-- შვილი დივ ბლოკი -->
+        <div class="inner-div"></div>
+    </div>
+</body>
+</html>
